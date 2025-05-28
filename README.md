@@ -1,1 +1,1 @@
-My Deploy link : https://didactic-eureka-5675jx45w54c4x5-8501.app.github.dev/
+My Deploy link : https://irisproject-mxra8j4vbr8qtonjubh4if.streamlit.app/
